@@ -19,4 +19,4 @@ The Sorting Visualizer project is a web application developed with HTML, CSS, an
 3. JavaScript: Implemented to handle the logic behind sorting algorithms and the interactive visualization.
 4. Bootstrap (optional): Utilized for faster and easier web development, providing pre-designed components and styles.
 
-[]("https://bitleakash6.github.io/Sorting-Visualizer-Web-Application/ "Sorting_Visualizer") 
+!("https://bitleakash6.github.io/Sorting-Visualizer-Web-Application/ "Sorting_Visualizer") 
